@@ -9,7 +9,7 @@ Just type in your name, hit enter or press button that will appear and, if usern
 ## 3. Say something!
 After logging in, you will be redirected to public room, which is accessible and visible for everybody who uses application
 
-###Messages
+### Messages
 
 ![](./images/main-picture.png)
 
