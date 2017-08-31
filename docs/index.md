@@ -1,5 +1,5 @@
 
-## Michał Kobiec and Anita Pietrzyk proudly presents:
+#### Michał Kobiec and Anita Pietrzyk proudly presents:
 # The ultimate chat app!
 
 
