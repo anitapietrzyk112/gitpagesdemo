@@ -11,7 +11,7 @@ After logging in, you will be redirected to public room, which is accessible and
 
 ### Messages
 
-![](./images/main-picture.png)
+![](../images/main-picture.png)
 
 On the right side, in “Users logged in” you can see all your friends who are currently logged in to the Ultimate chat-app
 On the left side you can see messages send by your friends.
