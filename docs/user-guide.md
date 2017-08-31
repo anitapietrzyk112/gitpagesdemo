@@ -16,5 +16,3 @@ On the right side, in “Users logged in” you can see all your friends who are
 On the left side you can see messages send by your friends.
 
 [back](./)
-
-[back](./)
