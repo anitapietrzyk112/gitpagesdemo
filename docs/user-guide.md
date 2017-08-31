@@ -10,6 +10,7 @@ Just type in your name, hit enter or press button that will appear and, if usern
 After logging in, you will be redirected to public room, which is accessible and visible for everybody who uses application
 
 ###Messages
+
 ![](./images/main-picture.png)
 
 On the right side, in “Users logged in” you can see all your friends who are currently logged in to the Ultimate chat-app
